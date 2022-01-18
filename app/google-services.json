@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "146503003621",
+    "firebase_url": "https://androidchatting-5c718-default-rtdb.firebaseio.com",
+    "project_id": "androidchatting-5c718",
+    "storage_bucket": "androidchatting-5c718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146503003621:android:accd6d9c6ea45117a1530c",
+        "android_client_info": {
+          "package_name": "com.example.chattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146503003621-gsru4omp1lem7o08nsp9pv5bbmklbmtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgRPCY6sxZsWF6mvAgQQYrzuUN3TBcEY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146503003621-gsru4omp1lem7o08nsp9pv5bbmklbmtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
